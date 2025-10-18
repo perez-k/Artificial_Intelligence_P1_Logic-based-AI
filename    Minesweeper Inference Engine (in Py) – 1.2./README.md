@@ -1,4 +1,4 @@
-## **Minesweeper Inference Engine ** – (Knowledge Representation)
+## **Minesweeper Inference Engine** – (Knowledge Representation)
 
 ---
 
