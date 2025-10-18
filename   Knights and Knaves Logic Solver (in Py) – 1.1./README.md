@@ -33,7 +33,7 @@ A says “I am both a knight and a knave.” \
 A says “We are both knaves.” \
 B says nothing.
 
-- Puzzle 2 has two characters: A and B. \ 
+- Puzzle 2 has two characters: A and B. \
 A says “We are the same kind.” \
 B says “We are of different kinds.”
 
