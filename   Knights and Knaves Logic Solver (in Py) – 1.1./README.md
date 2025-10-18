@@ -5,7 +5,7 @@
 ### **Description**  
 A Python program that models and solves **Knights and Knaves** logic puzzles using **propositional logic** and **model checking**.  
 In these puzzles, each character is either a Knight (always tells the truth) or a Knave (always lies).  
-The program constructs logical expressions representing each puzzle (knowledge base)nand uses inference to determine who is a Knight or Knave.
+The program constructs logical expressions representing each puzzle (knowledge base) and uses inference to determine who is a Knight or Knave.
 
 ---
 
