@@ -21,6 +21,7 @@ The program constructs logical expressions representing each puzzle (knowledge b
 
 <video controls src="VidA Knights.mp4" title="Title"></video>
 
+<video controls src="VidA Knights.mp4" title="Title"></video>
 
 Puzzle 0
 A is a Knight
