@@ -16,7 +16,7 @@ This repository contains my [HarvardX's CS50AI 2020](https://cs50.harvard.edu/ai
 - `pset8`: Homepage Basic website (in HTML, CSS, and JavaScript)
 Website with Flask and JavaScript (Web)
 - `final_project`: [Project Name/Description]
--->
+-->x
 
 ## Topics covered
 📚 Topics Covered include:
