@@ -19,14 +19,9 @@ The program constructs logical expressions representing each puzzle (knowledge b
 
 ### **Example Output**
 
-<video controls src="VidA Knights.mp4" title="Title"></video>
 
-<video controls src="perez-k/Projects_CS50_Artificial_Intelligence/images/Video_Demo/cs50ai_p1a_ Knights.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/e5603789-8bc0-425c-9ed5-0d54f246c60e
 
-<video controls src="images/Video_Demo/cs50ai_p1a_ Knights.mp4" title="Title"></video>
-<video controls src="<video controls src="https://github.com/perez-k/Projects_CS50_Artificial_Intelligence/blob/main/images/Video_Demo/cs50ai_p1a_%20Knights.mp4" title="images/Video_Demo/cs50ai_p1a_ Knights.mp"></video>4" title="Title"></video>
-
-https://github.com/perez-k/Projects_CS50_Artificial_Intelligence/blob/main/images/Video_Demo/cs50ai_p1a_%20Knights.mp4
 
 Puzzle 0
 A is a Knight
@@ -40,3 +35,4 @@ Puzzle 2
 A is a Knight
 B is a Knight
 C is a Knave
+
