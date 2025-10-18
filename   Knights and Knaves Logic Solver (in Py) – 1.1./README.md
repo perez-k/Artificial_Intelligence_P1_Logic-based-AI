@@ -18,21 +18,47 @@ The program constructs logical expressions representing each puzzle (knowledge b
 ---
 
 ### **Example Output**
-
+run python puzzle.py
 
 https://github.com/user-attachments/assets/e5603789-8bc0-425c-9ed5-0d54f246c60e
 
 
+
+knowledge in knowledge bases knowledge0, knowledge1, knowledge2, and knowledge3 to solve the following puzzles:
+
+- Puzzle 0 contains a single character, A.
+A says “I am both a knight and a knave.”
+
+- Puzzle 1 has two characters: A and B.
+A says “We are both knaves.”
+B says nothing.
+
+- Puzzle 2 has two characters: A and B.
+A says “We are the same kind.”
+B says “We are of different kinds.”
+
+- Puzzle 3 has three characters: A, B, and C.
+A says either “I am a knight.” or “I am a knave.”, but you don’t know which.
+B says “A said ‘I am a knave.’”
+B then says “C is a knave.”
+C says “A is a knight.”
+
+In each of the above puzzles, each character is either a knight or a knave. Every sentence spoken by a knight is true, and every sentence spoken by a knave is false.
+
+
 Puzzle 0
-A is a Knight
-B is a Knave
+A is Knave
 
 Puzzle 1
 A is a Knave
 B is a Knight
 
 Puzzle 2
-A is a Knight
+A is a Knave
 B is a Knight
-C is a Knave
+
+Puzzle 3
+A is a Knight
+B is a Knave
+C is a Knight
 
