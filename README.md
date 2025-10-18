@@ -29,7 +29,7 @@ Uninformed search (Depth-First Search, Breadth-First Search) -  Informed search 
 2. Knowledge \
 [Lecture notes](https://cs50.harvard.edu/ai/2020/notes/1/), [Files](https://cs50.harvard.edu/ai/2020/weeks/1/) \
 Representing information and drawing inferences from it. (Knowledge-Based Agent)\
-Propositional Logic with logical connector: [not(¬P); and(P ∧ Q); or(P ∨ Q); implication(P → Q); biconditional(P ↔ Q)] \
+Propositional Logic with logical connector: [not(¬P); and(P ∧ Q); inclusive or(P ∨ Q); exclusive or(P ⊕ Q); implication(P → Q); biconditional(P ↔ Q)] \
 Inference: determine if KB ⊨ α (in other words, answering the question: “can we conclude that α is true based on our knowledge base”)
 
 4. Uncertainty \
