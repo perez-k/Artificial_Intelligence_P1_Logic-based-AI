@@ -18,7 +18,7 @@ The program constructs logical expressions representing each puzzle (knowledge b
 ---
 
 ### **Example Output**
-run python puzzle.py
+Run `python puzzle.py`
 
 https://github.com/user-attachments/assets/e5603789-8bc0-425c-9ed5-0d54f246c60e
 
@@ -45,7 +45,7 @@ C says “A is a knight.”
 
 In each of the above puzzles, each character is either a knight or a knave. Every sentence spoken by a knight is true, and every sentence spoken by a knave is false.
 
-**Results (puzzles solved):** \
+**Results (puzzles solved):**
 
 Puzzle 0 \
 A is Knave
