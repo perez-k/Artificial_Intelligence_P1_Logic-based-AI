@@ -46,19 +46,19 @@ C says “A is a knight.”
 In each of the above puzzles, each character is either a knight or a knave. Every sentence spoken by a knight is true, and every sentence spoken by a knave is false.
 
 
-Puzzle 0 /
+Puzzle 0 \
 A is Knave
 
-Puzzle 1 / 
-A is a Knave /
+Puzzle 1 \
+A is a Knave \
 B is a Knight
 
-Puzzle 2 / 
-A is a Knave /
+Puzzle 2 \
+A is a Knave \
 B is a Knight
 
-Puzzle 3 /
-A is a Knight /
-B is a Knave /
+Puzzle 3 \
+A is a Knight \
+B is a Knave \
 C is a Knight
 
