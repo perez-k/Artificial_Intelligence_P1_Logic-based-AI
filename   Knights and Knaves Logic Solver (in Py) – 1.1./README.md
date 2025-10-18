@@ -21,7 +21,9 @@ The program constructs logical expressions representing each puzzle (knowledge b
 
 <video controls src="VidA Knights.mp4" title="Title"></video>
 
-<video controls src="VidA Knights.mp4" title="Title"></video>
+<video controls src="perez-k/Projects_CS50_Artificial_Intelligence/images/Video_Demo/cs50ai_p1a_ Knights.mp4" title="Title"></video>
+
+<video controls src="images/Video_Demo/cs50ai_p1a_ Knights.mp4" title="Title"></video>
 
 Puzzle 0
 A is a Knight
