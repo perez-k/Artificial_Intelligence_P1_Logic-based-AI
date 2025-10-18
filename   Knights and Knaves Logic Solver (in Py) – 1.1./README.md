@@ -23,10 +23,10 @@ run python puzzle.py
 https://github.com/user-attachments/assets/e5603789-8bc0-425c-9ed5-0d54f246c60e
 
 
-Puzzles in the demonstration:
+Puzzles in the demonstration: \
 knowledge in knowledge bases knowledge0, knowledge1, knowledge2, and knowledge3 to solve the following puzzles:
 
-- Puzzle 0 contains a single character, A. \ 
+- Puzzle 0 contains a single character, A. \
 A says “I am both a knight and a knave.” \
 
 - Puzzle 1 has two characters: A and B. \
