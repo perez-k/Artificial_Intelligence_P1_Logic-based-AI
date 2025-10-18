@@ -20,5 +20,6 @@ The AI maintains a knowledge base of known safe cells and mines, updates it with
 ### **Example Output**
 
 (It may be a good idea to download the video and whatch, since the video tends to not start from the beginning when play in some browser)
+
 https://github.com/user-attachments/assets/f58fa9cb-11e8-40a3-844c-8903e5ecd9fd
 
