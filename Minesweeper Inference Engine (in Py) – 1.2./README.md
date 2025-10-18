@@ -18,3 +18,6 @@ The AI maintains a knowledge base of known safe cells and mines, updates it with
 ---
 
 ### **Example Output**
+
+https://github.com/user-attachments/assets/f58fa9cb-11e8-40a3-844c-8903e5ecd9fd
+
