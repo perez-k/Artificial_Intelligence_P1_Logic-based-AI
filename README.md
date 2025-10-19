@@ -8,6 +8,7 @@ This repository contains my [HarvardX's CS50AI 2020](https://cs50.harvard.edu/ai
 
 ## Contents
 - `Search Problems`: [Degrees: Shortest path Search (in Python)](/Degrees:%20Shortest%20path%20Search%20(in%20Py)%20–%200.1./); [Tic Tac Toe: Minimax AI Player (in Python)](/%20Tic%20Tac%20Toe:%20Minimax%20AI%20Player%20(in%20Py)%20–%200.2./)
+- `Knowledge representation and inference Problems`: [Knights and Knaves Logic Solver (in Python)](/%20%20Knights%20and%20Knaves%20Logic%20Solver%20(in%20Py)%20–%201.1./); [Minesweeper Inference Engine (in Python)](/%20%20%20Minesweeper%20Inference%20Engine%20(in%20Py)%20–%201.2./)
 
 
 <!--
