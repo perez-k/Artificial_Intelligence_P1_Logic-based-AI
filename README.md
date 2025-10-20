@@ -38,7 +38,7 @@ First Order Logic: more succinct with Constant Symbols (objects) and Predicate S
 [Lecture notes](https://cs50.harvard.edu/ai/2020/notes/2/), [Files](https://cs50.harvard.edu/ai/2020/weeks/2/) \
 Dealing with uncertain events using probability to create AI that makes optimal decisions given limited information and uncertainty.
 Probability: 0 < P(ω) < 1; $\sum_{\omega \in \Omega} P(\omega) = 1$ \
-Conditional Probability:  P(a | b) [probability of a given b] $P(a \mid b) = \dfrac{P(a \land b)}{P(b)}$ /
+Conditional Probability:  P(a | b) [probability of a given b] $P(a \mid b) = \dfrac{P(a \land b)}{P(b)}$ \
 Random variable: Eg Roll, fair dice that can take on the values {0, 1, 2, 3, 4, 5, 6}.  Eg Flight P(Flight = on time) = 0.6, P(Flight = delayed) = 0.3, P(Flight = canceled) = 0.1
 
 
