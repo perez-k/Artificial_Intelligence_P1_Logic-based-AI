@@ -41,6 +41,11 @@ Probability: 0 < P(ω) < 1; $$
 \sum_{\omega \in \Omega} P(\omega) = 1
 $$
 
+$$
+\sum_{\omega \in \Omega} P(\omega) = 1
+$$
+
+
 
 4. Optimization \
 Finding not only a correct way to solve a problem, but a better—or the best—way to solve it.
