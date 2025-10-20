@@ -37,7 +37,7 @@ First Order Logic: more succinct with Constant Symbols (objects) and Predicate S
 2. Uncertainty \
 [Lecture notes](https://cs50.harvard.edu/ai/2020/notes/2/), [Files](https://cs50.harvard.edu/ai/2020/weeks/2/) \
 Dealing with uncertain events using probability to create AI that makes optimal decisions given limited information and uncertainty.
-Probability: 0 < P(ω) < 1; $ \sum_{\omega \in \Omega} P(\omega) = 1 $
+Probability: 0 < P(ω) < 1; $\sum_{\omega \in \Omega} P(\omega) = 1$
 
 
 
