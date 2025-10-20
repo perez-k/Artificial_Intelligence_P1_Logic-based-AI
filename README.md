@@ -41,7 +41,7 @@ Probability: 0 < P(ω) < 1; $\sum_{\omega \in \Omega} P(\omega) = 1$ \
 Conditional Probability:  P(a | b) [probability of a given b] $P(a \mid b) = \dfrac{P(a \land b)}{P(b)}$ \
 Random variable: Eg Roll, fair dice that can take on the values {0, 1, 2, 3, 4, 5, 6}.  Eg Flight P(Flight = on time) = 0.6, P(Flight = delayed) = 0.3, P(Flight = canceled) = 0.1  | Probability distribution can be represented more succinctly as a vector. For example, P(Flight) = <0.6, 0.3, 0.1>. \
 Independance: P(a ∧ b) = P(a)P(b). \
-Bayes’ Rule: $P(a \mid b) = \dfrac{P(a)\, P(b \mid a)}{P(b)}$
+Bayes’ Rule: $P(a \mid b) = \dfrac{P(a)\. P(b \mid a)}{P(b)}$
 
 
 
