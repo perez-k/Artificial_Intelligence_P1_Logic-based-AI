@@ -43,7 +43,7 @@ Random variable: Eg Roll, fair dice that can take on the values {0, 1, 2, 3, 4, 
 Independance: P(a ∧ b) = P(a)P(b). \
 Bayes’ Rule: $P(a \mid b) = \dfrac{P(a)\. P(b \mid a)}{P(b)}$ \
 Other Probability Rules: Negation: P(¬a) = 1 - P(a);  Inclusion-Exclusion: P(a ∨ b) = P(a) + P(b) - P(a ∧ b);  Marginalization: P(a) = P(a, b) + P(a, ¬b);  Conditioning: P(a) = P(a | b)P(b) + P(a | ¬b)P(¬b) \
-Inference by Enumeration: finding the probability distribution of variable X given observed evidence e and some hidden variables Y. $P(X \mid e) = \alpha\, P(X, e) = \alpha \sum_y P(X, e, y)$ \
+Inference by Enumeration: finding the probability distribution of variable X given observed evidence e and some hidden variables Y. $P(X \mid e) = \alpha\, P(X, e) = \alpha \sum_y P(X, e, y)$ | Many Python libraries (pomogranate)
 
 
 
