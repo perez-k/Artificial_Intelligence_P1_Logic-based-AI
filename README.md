@@ -44,25 +44,26 @@ Independance: P(a ∧ b) = P(a)P(b). \
 Bayes’ Rule: $P(a \mid b) = \dfrac{P(a)\. P(b \mid a)}{P(b)}$ \
 Other Probability Rules: Negation: P(¬a) = 1 - P(a);  Inclusion-Exclusion: P(a ∨ b) = P(a) + P(b) - P(a ∧ b);  Marginalization: P(a) = P(a, b) + P(a, ¬b);  Conditioning: P(a) = P(a | b)P(b) + P(a | ¬b)P(¬b) \
 
-Inference by Enumeration: finding the probability distribution of variable X given observed evidence e and some hidden variables Y. $P(X \mid e) = \alpha\, P(X, e) = \alpha \sum_y P(X, e, y)$ | Many Python libraries (pomogranate)
+- Inference by Enumeration: finding the probability distribution of variable X given observed evidence e and some hidden variables Y. $P(X \mid e) = \alpha\, P(X, e) = \alpha \sum_y P(X, e, y)$ | Many Python libraries (pomogranate)
 Sometimes Sampling to approximate inference (Large or complex models, continuous variables, ...)
 
-Markov Models
+- Markov Models
 based on Markov assumption: assumption that the current state depends on only a finite fixed number of previous states.
 Markov chain: a sequence of random variables where the distribution of each variable follows the Markov assumption. That is, each event in the chain occurs based on the probability of the event before it.
 
 
 
 4. Optimization \
+[Lecture notes](https://cs50.harvard.edu/ai/2020/notes/3/), [Files](https://cs50.harvard.edu/ai/2020/weeks/3/) \
 Finding not only a correct way to solve a problem, but a better—or the best—way to solve it.
 
-5. Learning \
+6. Learning \
 Improving performance based on access to data and experience. For example, your email is able to distinguish spam from non-spam mail based on past experience.
 
-6. Neural Networks \
+7. Neural Networks \
 A program structure inspired by the human brain that is able to perform tasks effectively.
 
-7. Language \
+8. Language \
 Processing natural language, which is produced and understood by humans.
 
 
