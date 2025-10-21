@@ -42,7 +42,7 @@ Conditional Probability:  P(a | b) [probability of a given b] $P(a \mid b) = \df
 Random variable: Eg Roll, fair dice that can take on the values {0, 1, 2, 3, 4, 5, 6}.  Eg Flight P(Flight = on time) = 0.6, P(Flight = delayed) = 0.3, P(Flight = canceled) = 0.1  | Probability distribution can be represented more succinctly as a vector. For example, P(Flight) = <0.6, 0.3, 0.1>. \
 Independance: P(a ∧ b) = P(a)P(b). \
 Bayes’ Rule: $P(a \mid b) = \dfrac{P(a)\. P(b \mid a)}{P(b)}$ \
-Other Probability Rules: Negation: P(¬a) = 1 - P(a);  Inclusion-Exclusion: P(a ∨ b) = P(a) + P(b) - P(a ∧ b);  Marginalization: P(a) = P(a, b) + P(a, ¬b)
+Other Probability Rules: Negation: P(¬a) = 1 - P(a);  Inclusion-Exclusion: P(a ∨ b) = P(a) + P(b) - P(a ∧ b);  Marginalization: P(a) = P(a, b) + P(a, ¬b);  Conditioning: P(a) = P(a | b)P(b) + P(a | ¬b)P(¬b)
 
 
 
