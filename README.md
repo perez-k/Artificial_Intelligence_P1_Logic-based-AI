@@ -55,17 +55,17 @@ Markov chain: a sequence of random variables where the distribution of each vari
 
 
 
-4. Optimization \
+3. Optimization \
 [Lecture notes](https://cs50.harvard.edu/ai/2020/notes/3/), [Files](https://cs50.harvard.edu/ai/2020/weeks/3/) \
 Finding not only a correct way to solve a problem, but a better—or the best—way to solve it.
 
-6. Learning \
+4. Learning \
 Improving performance based on access to data and experience. For example, your email is able to distinguish spam from non-spam mail based on past experience.
 
-7. Neural Networks \
+5. Neural Networks \
 A program structure inspired by the human brain that is able to perform tasks effectively.
 
-8. Language \
+6. Language \
 Processing natural language, which is produced and understood by humans.
 
 
