@@ -33,20 +33,21 @@ The program can work for other genetic mutation, traits pairs as long as the pro
 `py heredity.py data/family0.csv`
 
 >> 
-<img width="614" height="459" alt="image" src="/images/2.2_Heredity/Screenshot 1 P2.2 Heredity.png" />
+<img width="814" height="659" alt="image" src="/images/2.2_Heredity/Screenshot 1 P2.2 Heredity.png" />
 
 
 Interpretation for Harry: 
+
   Gene: \
-    2: 0.0092  [Probability that Harry have 02 mutated copies of the gene]
-    1: 0.4557   [Probability that Harry have 01 mutated copies of the gene]
-    0: 0.5351   [Probability that Harry have 00 mutated copies of the gene, so 02 normal copies] \
+    2: 0.0092  [Probability that Harry have 02 mutated copies of the gene] \
+    1: 0.4557   [Probability that Harry have 01 mutated copies of the gene] \
+    0: 0.5351   [Probability that Harry have 00 mutated copies of the gene, so 02 normal copies] 
 
   Trait:
-    True: 0.2665 [Probability that Harry have hearing impairment]
-    False: 0.7335   [Probability that Harry do not have hearing impairment] \
+    True: 0.2665 [Probability that Harry have hearing impairment] \
+    False: 0.7335   [Probability that Harry do not have hearing impairment]
 
 
 `py heredity.py data/family1.csv`
 >> 
-<img width="611" height="454" alt="image" src="/images/2.2_Heredity/Screenshot 2 p2.2 Heredity.png" />
+<img width="811" height="654" alt="image" src="/images/2.2_Heredity/Screenshot 2 p2.2 Heredity.png" />
