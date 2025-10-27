@@ -50,3 +50,8 @@ The program takes a collection of HTML pages, constructs a directed hyperlink ne
 
 ## **Example Output**
 
+<img width="614" height="459" alt="image" src="/images/2.1_PageRank/Screenshot 1 P2.1 PageRank.png" />
+
+<img width="611" height="454" alt="image" src="/images/2.1_PageRank/Screenshot 2 p2.1 PageRank.png />
+
+<img width="609" height="448" alt="image" src="/images/2.1_PageRank/Screenshot 3 p2.1 PageRank.png" />
