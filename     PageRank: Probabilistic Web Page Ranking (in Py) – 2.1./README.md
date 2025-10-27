@@ -2,7 +2,7 @@
 
 ---
 
-### **Description**
+## **Description**
 A Python implementation of the **PageRank** algorithm, used by Google search to rank web pages by importance in the search engine result. It computes the **importance of web pages** based on how likely a random web user is to land on each page.  
 Heuristic: An “important” page is one that many other important websites link to, since it’s reasonable to imagine that more sites will link to a higher-quality webpage than a lower-quality webpage. each page is given a rank according to the number of incoming links it has from other pages, and higher ranks would signal higher importance.
 PageRank was created by Google’s co-founders (including Larry Page, for whom the algorithm was named).
@@ -36,19 +36,12 @@ The program takes a collection of HTML pages, builds a directed **hyperlink netw
 
 ---
 
-### **Key CS/AI Concepts**
+## **Key CS/AI Concepts**
 - **Directed graph representation** of hyperlink networks.  
 - **Markov chains** and **state transition probabilities**.  
-- **Random Surfer Model** to approximate steady-state distribution.  
 - **Iterative convergence algorithms** for PageRank computation.  
 - **Stochastic processes** and probability distributions.  
 
----
-- **Directed graph representation** of hyperlink structures  
-- **Markov chains** and **transition probability matrices**  
-- **Stochastic processes** and equilibrium (steady-state) distributions  
-- **Iterative convergence algorithms** for fixed-point approximation  
-- **Uncertainty modeling** through probability distributions  
 
-### **Example Output**
+## **Example Output**
 
