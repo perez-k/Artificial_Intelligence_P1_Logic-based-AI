@@ -30,7 +30,7 @@ The program can work for other genetic mutation, traits pairs as long as the pro
 
 ## **Example Output**
 
-py heredity.py data/family0.csv
+`py heredity.py data/family0.csv`
 
 >> 
 <img width="614" height="459" alt="image" src="/images/2.2_Heredity/Screenshot 1 P2.2 Heredity.png" />
@@ -47,5 +47,6 @@ Interpretation for Harry:
     False: 0.7335   [Probability that Harry do not have hearing impairment] \
 
 
-py heredity.py data/family1.csv
+`py heredity.py data/family1.csv`
+>> 
 <img width="611" height="454" alt="image" src="/images/2.2_Heredity/Screenshot 2 p2.2 Heredity.png" />
