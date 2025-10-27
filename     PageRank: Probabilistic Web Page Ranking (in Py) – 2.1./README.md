@@ -1,4 +1,4 @@
-# **PageRank: Probabilistic webpage ranking** 
+# **PageRank: Probabilistic webpage ranking using Markov Chain** 
 
 ---
 
