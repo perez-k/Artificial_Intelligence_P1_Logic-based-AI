@@ -48,6 +48,7 @@ Interpretation for Harry:
     False: 0.7335   [Probability that Harry do not have hearing impairment]
 
 
+
 `py heredity.py data/family1.csv`
 >> 
 <img width="811" height="654" alt="image" src="/images/2.2_Heredity/Screenshot 2 p2.2 Heredity.png" />
