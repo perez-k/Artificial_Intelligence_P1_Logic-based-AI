@@ -33,30 +33,9 @@ The program can work for other genetic mutation, traits pairs as long as the pro
 py heredity.py data/family0.csv
 
 >> 
-Harry:
-  Gene:
-    2: 0.0092
-    1: 0.4557
-    0: 0.5351
-  Trait:
-    True: 0.2665
-    False: 0.7335
-James:
-  Gene:
-    2: 0.1976
-    1: 0.5106
-    0: 0.2918
-  Trait:
-    True: 1.0000
-    False: 0.0000
-Lily:
-  Gene:
-    2: 0.0036
-    1: 0.0136
-    0: 0.9827
-  Trait:
-    True: 0.0000
-    False: 1.0000
+<img width="614" height="459" alt="image" src="/images/2.2_Heredity/Screenshot 1 P2.2 Heredity.png" />
+
+
 
 
 Interpretation for Harry: 
@@ -67,3 +46,7 @@ Interpretation for Harry:
   Trait:
     True: 0.2665 [Probability that Harry have hearing impairment]
     False: 0.7335   [Probability that Harry do not have hearing impairment]
+
+
+
+<img width="611" height="454" alt="image" src="/images/2.2_Heredity/Screenshot 2 p2.2 Heredity.png" />
