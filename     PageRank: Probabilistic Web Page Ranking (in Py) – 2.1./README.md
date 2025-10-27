@@ -20,11 +20,12 @@ Our random surfer now starts by choosing a page at random, and then, for each ad
 
 2. **Iterative PageRank Computation** – Repeatedly updates rank values in a directed graph until they converge to stable probabilities.
 
-For the second condition, we need to consider each possible page i that links to page p. For each of those incoming pages, let NumLinks(i) be the number of links on page i. Each page i that links to p has its own PageRank, PR(i), representing the probability that we are on page i at any given time. And since from page i we travel to any of that page’s links with equal probability, we divide PR(i) by the number of links NumLinks(i) to get the probability that we were on page i and chose the link to page p.
+Consider each possible page i that links to page p. \
+For each of those incoming pages, NumLinks(i) is the number of links on page i. Each page i that links to p has its own PageRank, PR(i), representing the probability that we are on page i at any given time. Since from page i we travel to any of that page’s links with equal probability, we divide PR(i) by the number of links NumLinks(i) to get the probability that we were on page i and chose the link to page p.
 
 This gives us the following definition for the PageRank for a page p.
 
-### **PageRank Formula**
+### PageRank Formula
 $PR(p) = \frac{1 - d}{N} + d \sum_i \frac{PR(i)}{NumLinks(i)}$
 
 
