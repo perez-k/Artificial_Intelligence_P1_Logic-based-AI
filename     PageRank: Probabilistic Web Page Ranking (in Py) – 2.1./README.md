@@ -24,6 +24,11 @@ For the second condition, we need to consider each possible page i that links to
 
 This gives us the following definition for the PageRank for a page p.
 
+### **PageRank Formula**
+$PR(p) = \frac{1 - d}{N} + d \sum_i \frac{PR(i)}{NumLinks(i)}$
+
+
+
 The program takes a collection of HTML pages, builds a directed **hyperlink network graph** of links between them, and computes a ranking score for each page based on probability distribution over pages representing their relative influence.
 
 
