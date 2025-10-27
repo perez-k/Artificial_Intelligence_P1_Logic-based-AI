@@ -43,7 +43,7 @@ Interpretation for Harry:
     1: 0.4557   [Probability that Harry have 01 mutated copies of the gene] \
     0: 0.5351   [Probability that Harry have 00 mutated copies of the gene, so 02 normal copies] 
 
-  Trait:
+  Trait: \
     True: 0.2665 [Probability that Harry have hearing impairment] \
     False: 0.7335   [Probability that Harry do not have hearing impairment]
 
