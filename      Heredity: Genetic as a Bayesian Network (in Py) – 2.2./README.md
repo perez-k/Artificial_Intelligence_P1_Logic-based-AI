@@ -16,7 +16,7 @@ Given:
 It estimates the posterior probability for each possible number of abnormal gene copies (0, 1, or 2) that each family member might carry, and whether they are likely to express the hereditary trait.  
 It accounts for mutation rates and Mendelian inheritance.
 
-
+The program can work for other genetic mutation, traits pairs as long as the probability data are updated accordingly in heredity.py
 
 ---
 
@@ -30,3 +30,40 @@ It accounts for mutation rates and Mendelian inheritance.
 
 ## **Example Output**
 
+py heredity.py data/family0.csv
+
+>> 
+Harry:
+  Gene:
+    2: 0.0092
+    1: 0.4557
+    0: 0.5351
+  Trait:
+    True: 0.2665
+    False: 0.7335
+James:
+  Gene:
+    2: 0.1976
+    1: 0.5106
+    0: 0.2918
+  Trait:
+    True: 1.0000
+    False: 0.0000
+Lily:
+  Gene:
+    2: 0.0036
+    1: 0.0136
+    0: 0.9827
+  Trait:
+    True: 0.0000
+    False: 1.0000
+
+
+Interpretation for Harry: 
+  Gene:
+    2: 0.0092  [Probability that Harry have 02 mutated copies of the gene]
+    1: 0.4557   [Probability that Harry have 01 mutated copies of the gene]
+    0: 0.5351   [Probability that Harry have 00 mutated copies of the gene, so 02 normal copies]
+  Trait:
+    True: 0.2665 [Probability that Harry have hearing impairment]
+    False: 0.7335   [Probability that Harry do not have hearing impairment]
