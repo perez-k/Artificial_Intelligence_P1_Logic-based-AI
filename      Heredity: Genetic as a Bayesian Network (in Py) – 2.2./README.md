@@ -14,7 +14,8 @@ Trait likelihood depends on gene copies:
 Given:
 - A family tree (parents/children),
 - And known trait expression for some individuals as a csv file,
-It estimates the posterior probability for each possible number of abnormal gene copies (0, 1, or 2) that each family member might carry, and whether they are likely to express the hereditary trait.  
+
+It estimates the posterior probability for each possible number of abnormal gene copies (0, 1, or 2) that each family member might carry, and whether they are likely to express the hereditary trait. \
 It accounts for mutation rates and Mendelian inheritance.
 
 The program can work for other genetic mutation, traits pairs as long as the probability data are updated accordingly in heredity.py
