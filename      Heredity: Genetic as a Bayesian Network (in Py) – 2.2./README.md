@@ -5,6 +5,7 @@
 ## **Description**
 A Python program that models inheritance of the **GJB2 gene (Connexin 26)** and the expression of **congenital hearing impairment** using a **Bayesian network**. 
 Each person can have **0, 1, or 2 copies** of the mutated GJB2 allele; parents pass one copy to each child with a **1% mutation probability** (flip to/from the target allele). 
+
 Trait likelihood depends on gene copies:
 - **0 copies → ~1%** chance of trait  
 - **1 copy → ~56%** chance of trait  
