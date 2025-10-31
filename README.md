@@ -57,7 +57,7 @@ Markov chain: a sequence of random variables where the distribution of each vari
 
 3. Optimization \
 [Lecture notes](https://cs50.harvard.edu/ai/2020/notes/3/), [Files](https://cs50.harvard.edu/ai/2020/weeks/3/) \
-Finding not only a correct way to solve a problem, but a better—or the best—way to solve it.
+Choosing the best option from a set of possible options.  Finding not only a correct way to solve a problem, but a better—or the best—way to solve it.
 
 4. Learning \
 Improving performance based on access to data and experience. For example, your email is able to distinguish spam from non-spam mail based on past experience.
