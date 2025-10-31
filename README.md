@@ -57,7 +57,7 @@ Markov chain: a sequence of random variables where the distribution of each vari
 
 3. Optimization \
 [Lecture notes](https://cs50.harvard.edu/ai/2020/notes/3/), [Files](https://cs50.harvard.edu/ai/2020/weeks/3/) \
-Choosing the best option from a set of possible options.  Finding not only a correct way to solve a problem, but a better—or the best—way to solve it.
+Choosing the best option from a set of possible options.  Finding not only a correct way to solve a problem, but a better—or the best—way to solve it. \
 Local search: search algorithm that maintains a single node and searches by moving to a neighboring node. (different from previous mentioned types of search). Often bring to an answer that is not optimal but “good enough,” conserving computational power. Eg: 04 houses in set locations. We want to build two hospitals, such that we minimize the distance from each house to a hospital. 
 
 5. Learning \
