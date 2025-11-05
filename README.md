@@ -64,6 +64,9 @@ Local search: search algorithm that maintains a single node and searches by movi
 - Simulated Annealing: starts with a "high temperature", being more likely to make random decisions, and, as the "temperature" decreases, it becomes less likely to make random decisions, becoming more “firm.” This mechanism allows the algorithm to change its state to a neighbor that’s worse than the current state to escape from local maxima and increase probability of finding global maximum.
 
 Linear Programming
+Problems that optimize a linear equation (an equation of the form y = ax₁ + bx₂ + …) with constraints attached (a₁x₁ + a₂x₂ + … + aₙxₙ ≤ b). Simplex and Interior-Point
+
+Constraints satisfaction problem: Backtracking Search
 
 5. Learning \
 Improving performance based on access to data and experience. For example, your email is able to distinguish spam from non-spam mail based on past experience.
