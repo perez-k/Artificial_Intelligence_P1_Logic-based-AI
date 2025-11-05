@@ -65,8 +65,11 @@ Local search: search algorithm that maintains a single node and searches by movi
 
 Linear Programming
 Problems that optimize a linear equation (an equation of the form y = ax₁ + bx₂ + …) with constraints attached (a₁x₁ + a₂x₂ + … + aₙxₙ ≤ b). Simplex and Interior-Point
+Eg: optimize productions, and costs
+
 
 Constraints satisfaction problem: Backtracking Search
+Eg: In sudoku, or to schedule exams for a university giving students availability constraints (students cannot have 02 exams at the same time)
 
 5. Learning \
 Improving performance based on access to data and experience. For example, your email is able to distinguish spam from non-spam mail based on past experience.
