@@ -27,6 +27,10 @@ This approach mimics how a human might logically eliminate impossible words, the
 <img width="814" height="659" alt="image" src="/images/3.1_Crossword/Screenshot p3.1.png" />
 
 
+`py generate.py data/structure2.txt data/words1.txt output1.png `
+
+>> 
+<img width="814" height="659" alt="image" src="/images/3.1_Crossword/img crossword.png" />
 
 
 
