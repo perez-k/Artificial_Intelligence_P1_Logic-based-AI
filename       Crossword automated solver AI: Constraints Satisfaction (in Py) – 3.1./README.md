@@ -20,6 +20,7 @@ This approach mimics how a human might logically eliminate impossible words, the
 ---
 
 ### **Example Output**
+The AI can handle both simple and very complex crosswords. The program only needs the crossword structure and the dictionary.
 
 `py generate.py data/structure2.txt data/words2.txt output2.png `
 
