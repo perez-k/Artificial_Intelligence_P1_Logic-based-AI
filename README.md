@@ -72,6 +72,9 @@ Eg: In sudoku, or to schedule exams for a university giving students availabilit
 
 
 
+&nbsp;
+
+&nbsp;
 
 
 [In Part 2](https://github.com/perez-k/Artificial_Intelligence_P2_Learning-based-AI)
