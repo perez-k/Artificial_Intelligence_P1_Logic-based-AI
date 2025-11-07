@@ -71,7 +71,7 @@ Constraints satisfaction problem: Backtracking Search \
 Eg: In sudoku, or to schedule exams for a university giving students availability constraints (students cannot have 02 exams at the same time)
 
 
-in Part 2
+[in Part 2](github.com/perez-k/Artificial_Intelligence_P2_Learning-based-AI)
 
 5. Learning \
 Improving performance based on access to data and experience. For example, your email is able to distinguish spam from non-spam mail based on past experience.
