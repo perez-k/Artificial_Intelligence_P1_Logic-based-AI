@@ -72,6 +72,7 @@ Eg: In sudoku, or to schedule exams for a university giving students availabilit
 
 
 in Part 2
+
 5. Learning \
 Improving performance based on access to data and experience. For example, your email is able to distinguish spam from non-spam mail based on past experience.
 
