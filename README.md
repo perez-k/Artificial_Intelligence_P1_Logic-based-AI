@@ -71,7 +71,7 @@ Constraints satisfaction problem: Backtracking Search \
 Eg: In sudoku, or to schedule exams for a university giving students availability constraints (students cannot have 02 exams at the same time)
 
 \
-\
+
 
 [In Part 2](https://github.com/perez-k/Artificial_Intelligence_P2_Learning-based-AI)
 
