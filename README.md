@@ -1,4 +1,4 @@
-# Projects_CS50_Artificial_Intelligence
+# Projects_CS50_Artificial_Intelligence (Part 1: Logic Based AI)
 Projects in **Python** \
 **CS50AI 2020 PSets solutions - (HarvardX, Completed in Fall 2020)**
 
@@ -70,6 +70,8 @@ Eg: optimize productions, and costs
 Constraints satisfaction problem: Backtracking Search \
 Eg: In sudoku, or to schedule exams for a university giving students availability constraints (students cannot have 02 exams at the same time)
 
+
+in Part 2
 5. Learning \
 Improving performance based on access to data and experience. For example, your email is able to distinguish spam from non-spam mail based on past experience.
 
